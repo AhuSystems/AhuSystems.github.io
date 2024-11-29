@@ -1,1 +1,0 @@
-import{P as t,Q as f,v as e}from"./runtime.CO8kbWjU.js";function c(n){throw new Error("lifecycle_outside_component")}function u(n){t===null&&c(),f(()=>{const o=e(n);if(typeof o=="function")return o})}function r(n){t===null&&c(),u(()=>()=>e(n))}export{r as a,u as o};
