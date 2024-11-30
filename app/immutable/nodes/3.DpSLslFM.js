@@ -1,0 +1,1 @@
+import"../chunks/disclose-version.BOHOjsER.js";import{C as o}from"../chunks/console.D_yxCajK.js";function f(t){o(t,{targetText:"About. adgffaafdhadasdfdasf.",targetButtons:[]})}export{f as component};

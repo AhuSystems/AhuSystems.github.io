@@ -1,0 +1,1 @@
+import{z as t,A as f,B as e}from"./runtime.D534nVkN.js";function c(n){throw new Error("lifecycle_outside_component")}function u(n){t===null&&c(),f(()=>{const o=e(n);if(typeof o=="function")return o})}function r(n){t===null&&c(),u(()=>()=>e(n))}export{r as a,u as o};
