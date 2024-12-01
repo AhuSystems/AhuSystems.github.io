@@ -1,0 +1,2 @@
+import"../chunks/disclose-version.CJDMvett.js";import{C as n}from"../chunks/console.tWJuN5-0.js";function m(t){n(t,{targetText:`Hi! I'm Allan Ahu.
+ I work full-time as a programmer, handling front-end, back-end, dev-ops and more. In my free time, I enjoy making games and working on various hobby projects. I'm also expanding my skills in graphics programming, 3D art, and 2D pixel art.`,targetButtons:[]})}export{m as component};
